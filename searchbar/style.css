@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: #99a811;
+	background: #1178a8;
   }
   
   .search-box {
@@ -26,7 +26,7 @@ body {
   }
   
   .search-btn {
-	color: #ffd000;
+	color: #d0ff00;
 	float: right;
 	width: 40px;
 	height: 40px;
